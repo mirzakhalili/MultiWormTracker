@@ -17,12 +17,11 @@ for i=1:ListSize
             f=read(obj,j); % Reading the next frame
             F(j).I=f;
         end
-        %%
         FF=double(F(j).I)/N;
         for j=2:N
             FF=double(F(j).I)/N+FF;
         end
-%         imshow(uint8(FF))
+        %imshow(uint8(FF))
         Back=uint8(FF);
         save([Name,'Back.mat'],'Back')
     end
