@@ -1,4 +1,4 @@
-Some sample movie can be downloaded from
+A sample movie can be downloaded from
 
 https://drive.google.com/file/d/1EsCjg3tPpcIllNh-V7jeH4--2Yi_feGz/view?usp=sharing
 
