@@ -12,4 +12,4 @@ A repository of the codes for tracking multiple c elegans worms. See https://doi
 
 5- Watch the tracking in progress.
 
-6- The results are saved on the disk. The (x,y) for the centroid of worm “n” at frame “t” is saved in (Worm(n).W(t).X,Worm(n).W(t).Y). The binary skeleton of worm ”n” at frame “t” be accessed from Worm(n).W(t).I.
+6- The results are saved on the disk. The (x,y) for the centroid of worm “n” at frame “t” is saved in (Worm(n).W(t).X,Worm(n).W(t).Y). The binary skeleton of worm ”n” at frame “t” can be accessed from Worm(n).W(t).I.
